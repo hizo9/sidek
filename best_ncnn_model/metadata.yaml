@@ -1,0 +1,23 @@
+description: Ultralytics YOLO11n model trained on customdataset.yaml
+author: Ultralytics
+date: '2025-04-01T19:55:07.080378'
+version: 8.3.99
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: bubble wrap
+  1: cardboard
+  2: leaf
+  3: packaging
+  4: paper
+  5: plastic
+  6: styrofoam
+args:
+  batch: 1
+  half: false

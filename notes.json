@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "bubble wrap"
+    },
+    {
+      "id": 1,
+      "name": "cardboard"
+    },
+    {
+      "id": 2,
+      "name": "leaf"
+    },
+    {
+      "id": 3,
+      "name": "packaging"
+    },
+    {
+      "id": 4,
+      "name": "paper"
+    },
+    {
+      "id": 5,
+      "name": "plastic"
+    },
+    {
+      "id": 6,
+      "name": "styrofoam"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

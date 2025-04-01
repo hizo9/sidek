@@ -1,0 +1,4 @@
+train: train
+val: val
+
+names: ['bubble wrap', 'cardboard', 'leaf', 'packaging', 'paper', 'plastic', 'styrofoam']
