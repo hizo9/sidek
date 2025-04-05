@@ -1,0 +1,4 @@
+opencv-python
+ultralytics
+adafruit-circuitpython-dht
+requests

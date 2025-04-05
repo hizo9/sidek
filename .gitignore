@@ -1,0 +1,4 @@
+*.pt
+*.torchscript
+*.pyc
+__pycache__/
